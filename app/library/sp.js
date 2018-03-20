@@ -1,0 +1,3 @@
+gSp = {
+    context:"ddd"
+}
